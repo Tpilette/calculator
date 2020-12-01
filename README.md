@@ -4,7 +4,7 @@ An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
 [![Build Status](https://dev.azure.com/ThibaultPil/U2U/_apis/build/status/Tpilette.calculator?branchName=refs%2Fpull%2F1%2Fmerge)](https://dev.azure.com/ThibaultPil/U2U/_build/latest?definitionId=5&branchName=refs%2Fpull%2F1%2Fmerge)
-Not working
+
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
